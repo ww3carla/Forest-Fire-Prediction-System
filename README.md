@@ -30,7 +30,7 @@ It handles:
 * **Server:** Uvicorn
 * **Deployment:** Hugging Face Spaces / Docker
 
-##📊 How It Works (AI Logic)
+## 📊 How It Works (AI Logic)
 Request: The backend receives Temperature, Humidity, and Wind Speed.
 
 Feature Engineering: Data is normalized and prepared for the model.
@@ -41,7 +41,7 @@ Classification: Based on the percentage, the backend assigns a status (Low, Mode
 
 Response: Results are sent back to the React dashboard for visualization.
 
-##📁 Project Structure
+## 📁 Project Structure
 app.py - Main FastAPI application and routing.
 
 model.pkl - The trained Machine Learning model.
