@@ -48,7 +48,5 @@ model.pkl - The trained Machine Learning model.
 
 requirements.txt - Python dependencies (FastAPI, Scikit-learn, etc.).
 
-Dockerfile - Container configuration for Hugging Face deployment.
-
 👩‍💻 Author
 Carla Bozintan
